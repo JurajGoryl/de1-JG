@@ -1,4 +1,4 @@
-# Lab 1: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME si kokot
+# Lab 1: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME si kokot jebnuty
 
 ### De Morgan's laws
 
