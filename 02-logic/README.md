@@ -1,20 +1,18 @@
-# Lab 2: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
+# Lab 2: Juraj Goryl
 
 ### 2-bit comparator
 
 1. Karnaugh maps for other two functions of 2-bit comparator:
 
-   Greater than:
+   Greater than, Less than:
+   
+![331440192_974232547269974_801738292463525452_n](https://user-images.githubusercontent.com/124798537/220186288-9c8c2212-699e-404a-a7e7-3ec0c1f83313.jpg)
 
-   ![K-maps](images/kmap_empty.png)
-
-   Less than:
-
-   ![K-maps](images/kmap_empty.png)
-
+   
 2. Mark the largest possible implicants in the K-map and according to them, write the equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   ![Logic functions](images/comparator_min.png)
+   ![331494229_1334251427145989_7944284164200127920_n](https://user-images.githubusercontent.com/124798537/220186304-cd035cba-cbcd-4dd1-ac80-07e81d48998f.jpg)
+
 
 ### 4-bit comparator
 
